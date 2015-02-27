@@ -1,2 +1,2 @@
-# sot-search
+# sort-search
 Bubble sort and search
